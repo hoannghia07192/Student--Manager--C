@@ -1,0 +1,11 @@
+# Bỏ qua file thực thi (.exe trên Windows, output trên Linux)
+*.exe
+*.o
+*.out
+app
+
+# Bỏ qua file dữ liệu người dùng (dữ liệu test)
+*.txt
+
+# Bỏ qua thư mục cấu hình của VS Code
+.vscode/
